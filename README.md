@@ -1,4 +1,4 @@
-Hi 👋 My name is Cintia
+Hi there. I'm Cintia 👋
 =======================
 
 Frontend developer

@@ -4,7 +4,7 @@ Hi there. I'm Cintia 👋
 Frontend developer
 ------------------
 
-*   ✉️  You can contact me at [cintiabsza@gmail.com](mailto:cintiabsza@gmail.com)
+*   ✉️  You can contact me at [cintia.bsza@gmail.com](mailto:cintiabsza@gmail.com)
 *   🧠  I'm learning React
 
 ### Skills 

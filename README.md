@@ -4,7 +4,7 @@ Hi there. I'm Cintia 👋
 
 - 📫 How to reach me **cintia.bsza@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h1 align="left">Connect with me:</h1>
 <p align="left">
 </p>
 
